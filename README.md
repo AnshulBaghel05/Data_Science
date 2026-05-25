@@ -98,6 +98,48 @@ A project that extracts customer and order insights from e-commerce datasets.
 - Pandas
 
 ---
+### 6. Coffee Machine (Object-Oriented Programming Project)
+
+A console-based Coffee Machine application developed using Object-Oriented Programming (OOP) principles in Python. The project demonstrates abstraction, inheritance, encapsulation, and polymorphism through different coffee types and their preparation processes.
+
+#### Key Features
+
+- Interactive menu-driven coffee selection
+- Multiple coffee varieties:
+  - Espresso
+  - Americano
+  - Latte
+  - Cappuccino
+  - Mocha
+  - Frappe
+- Abstract base class implementation using Python's `abc` module
+- Encapsulation through private attributes
+- Inheritance for extending coffee types
+- Polymorphism through method overriding
+- Clean and reusable OOP architecture
+
+#### OOP Concepts Demonstrated
+
+- Classes and Objects
+- Abstraction
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Method Overriding
+- Constructors (`__init__`)
+
+#### Technologies
+
+- Python
+- Object-Oriented Programming (OOP)
+- ABC (Abstract Base Classes)
+
+#### Learning Outcomes
+
+- Understanding real-world OOP design
+- Creating class hierarchies
+- Implementing abstract classes and methods
+- Building modular and maintainable Python applications
 
 ## Technologies Used
 
@@ -121,7 +163,3 @@ By completing these projects, you will gain experience in:
 - Pandas data manipulation techniques
 
 
-
-## License
-
-This repository is intended for educational and learning purposes. Feel free to use the code as a reference for your own learning and projects.
